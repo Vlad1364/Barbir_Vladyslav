@@ -12,3 +12,7 @@ print("\"I\'m\"","\n\"\"learning\"\"","\n\"\"\"Python\"\"\"")
 print(0o500)
 
 print(0x777)
+
+print(2**2**3)
+
+
